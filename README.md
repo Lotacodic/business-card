@@ -1,5 +1,8 @@
 # Business Card
 
+## Live Demo
+https://business-kard.netlify.app/
+
 A simple business card built with **HTML and CSS** to demonstrate basic layout and styling skills.
 
 ## Tech Stack
@@ -27,3 +30,4 @@ A simple business card built with **HTML and CSS** to demonstrate basic layout a
 ## How to View
 
 Open `index.html` in any modern browser.
+
